@@ -1,15 +1,13 @@
 # Text Editor
 
 ## Description
-        
+
 This application gives a text editor experience that looks like a code editor. Take notes with computational style and thinking easily, and download those notes to local storage to keep those notes always available!
 
 ### Deployed Site Link
 
-
-        
 ## Table of Contents
-        
+
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
@@ -17,8 +15,7 @@ This application gives a text editor experience that looks like a code editor. T
 - [Tests](#tests)
 - [Questions](#questions)
 - [Repository](#repository)
-     
-        
+
 ## Installation
 
 Installation of this application uses the following steps:
@@ -35,28 +32,25 @@ Installation of this application uses the following steps:
         
 ## Usage
  
-Screenshot!
-        
-Remember to add your screenshot!
-        
+![screenshot](./images/text-editor-mockup.png)
+
 ## Credits
 
 N/A
-        
+
 ## License
-        
+
 MIT
-        
+
 ## Tests
 
 N/A
-        
+
 ## Questions?
 
 If any questions regarding this code, reach out to:
 https://github.com/artiecannv
 
 ## Repository
-        
-https://github.com/artiecannv/text-editor
 
+https://github.com/artiecannv/text-editor
