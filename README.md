@@ -6,6 +6,8 @@ This application gives a text editor experience that looks like a code editor. T
 
 ### Deployed Site Link
 
+https://thefifth-text-editor.herokuapp.com/
+
 ## Table of Contents
 
 - [Installation](#installation)
@@ -22,11 +24,11 @@ Installation of this application uses the following steps:
 
 <ul>
     <li>Step 1 - Clone the repository from GitHub</li>
-    <li>In a terminal window, navigate to the directory meant for the storage of this code</li>
-    <li>Type command $ git clone and paste the copied SSH key, then hit enter</li>
-    <li>To install necessary packages: In the directory with this code, use the command $ npm i</li>
-    <li>Starting Application: Run $ npm start</li>
-    <li>Open your browser, go to localhost:3001</li>
+    <li>Step 2 - In a terminal window, navigate to the directory meant for the storage of this code</li>
+    <li>Step 3 - Type command $ git clone and paste the copied SSH key, then hit enter</li>
+    <li>Step 4 - To install necessary packages: In the directory with this code, use the command $ npm i</li>
+    <li>Step 5 - Starting Application: Run $ npm start</li>
+    <li>Step 6 - Open your browser, go to localhost:3001</li>
 </ul>
         
         
